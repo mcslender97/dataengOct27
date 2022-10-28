@@ -15,7 +15,9 @@
     Module 12: Advanced BigQuery Functionality and Performance
 ---
 
-Rod Davison
+## Links 
+#### Tutorials and demos
+- https://github.com/GoogleCloudPlatform/training-data-analyst
 
 ## Admin Stuff
 - class Hours 10-6 EDT Last hour  QA discussions
@@ -72,3 +74,4 @@ Rod Davison
 
 ## Class Project
 - Global Warming
+- 
