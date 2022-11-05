@@ -75,3 +75,42 @@
 ## Class Project
 - Global Warming
 - 
+ ## Data Quality
+ - Fnu Katheswaranath 
+ - Joashua Rodson
+ - Amber Roddottir
+
+---
+
+
+- https://cloud.google.com/blog/products/data-analytics/whats-happening-bigquery-adding-speed-and-flexibility-10x-streaming-quota-cloud-sql-federation-and-more
+- https://cloud.google.com/dataproc
+
+---
+
+## NoSQL
+1. Key value store
+2. Document database - semi structure
+    - MongoDB
+3. Columnar Storage 
+    - Sparce data set 
+
+```bash
+
+index colum  [ca: [....], cz: [.....]]
+```
+
+- Data Drift 
+- Concept drift 
+
+---
+
+Nature based
+    - emulating natural behaviours
+    - emulate natural cognition
+Rational AI
+    - developing ML models that are use
+    - Rational actors
+- Datraproc
+    - specificy parameter for a hdfs cluster
+
